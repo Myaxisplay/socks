@@ -6,7 +6,7 @@ cat > /etc/shadowsocks-libev/config.json <<EOF
    "server":["0.0.0.0"],
    "mode":"tcp_and_udp",
    "server_port":8388,
-   "password":"jomblo99",
+   "password":"850824",
    "timeout":60,
    "method":"chacha20-ietf-poly1305",
    "nameserver":"1.1.1.1"
